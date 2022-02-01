@@ -1,16 +1,14 @@
-### Hi there 👋
+## Sanghyuk Lee 👋
+### 🌱 Interest
+- Deep learning based computer vision
+- Model compression
 
-<!--
-**shlee625/shlee625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shlee625&show_icons=true&theme=tokyonight)
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shlee625.github.io/)](https://shlee625.github.io/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlee625/)](https://www.linkedin.com/in/shlee625/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanghyuk.lee625@gmail.com)](mailto:sanghyuk.lee625@gmail.com)
+</div>
