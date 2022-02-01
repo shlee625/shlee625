@@ -4,7 +4,7 @@
 - Model compression
 
 <div align=center>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shlee625&show_icons=true&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shlee625&show_icons=true&theme=tokyonight)]
 </div>
 
 <div align=center>
